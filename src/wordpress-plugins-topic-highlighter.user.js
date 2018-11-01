@@ -6,6 +6,7 @@
 // @author       Clorith
 // @match        https://wordpress.org/support/plugin/*
 // @match        https://wordpress.org/support/theme/*
+// @match	 https://wordpress.org/support/view/*
 // @require      https://code.jquery.com/jquery-1.11.0.min.js
 // @resource     configHtml https://raw.githubusercontent.com/Clorith/wporg-topic-highlighter/master/src/options.html
 // @grant        GM_getResourceText
